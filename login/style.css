@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.lineSup{
+    background-color: var(--blue-dark);
+    height: 3vh;
+}
+
+.linSec{
+    background-color: var(--blue-light);
+    height: 8vh;
+}
+
+
+
+.clotheLogin{
+    height: 78vh;
+}
+
+.formulario{
+    background-color: var(--blue-white);
+    backdrop-filter: opacity();
+}
+
+:root{
+    --blue-dark: #005662;
+    --blue-light: #00838F;
+    --blue-white: #4fb4bf4f;
+}
+
+main{
+    height: 100vh;
+}
